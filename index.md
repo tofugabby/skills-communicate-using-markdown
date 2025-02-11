@@ -4,3 +4,6 @@
 ``` javascript
 var tofu = "I am Gabby!";
 ```
+- [ ] Bowl on counter
+- [ ] Cereal in bowl
+- [ ] Milk in bowl
